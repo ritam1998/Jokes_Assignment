@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JOKES</string>
+    <string name="app_name_button">Search Jokes</string>
+    <string name="hint">No of Jokes</string>
+</resources>
